@@ -5,7 +5,7 @@
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQjJYZklzNWR5eGUrblU2TFlRYzBkWDNpWFM3Z2poNUIzeGpjQ0FsaGM5aWxYcWpJb21rcUxJZUpKY3c5SzF4aUYxeUxrejE3Z2JScVYxUDBlWWdWaGVoUER5ak4zblFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMDgwMjYwCWZpbGU6T21uaUNhcnQgUE9TXzIuMC4xX3g2NC1zZXR1cC5leGUKSlY2Nk5Ua1g1bnVKR25lSW8rbFB0bG9IUWNDZmp1T0k0akZsQVZGTlREQ1pCVndJMDQ2cDZsZG1oWU5HMURzNGpvTXUzYjFYVWQzdTdNTk5ma3JsQWc9PQo=",
-      "url": "https://github.com/ShanAhmd/omnicart-updater/releases/download/v2.0.1/OmniCart%20POS_2.0.1_x64-setup.exe"
+      "url": "https://github.com/ShanAhmd/omnicart-updater/releases/download/2.0.1/OmniCart.POS_2.0.1_x64-setup.exe"
     }
   }
 }

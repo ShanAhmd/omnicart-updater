@@ -1,11 +1,11 @@
 {
-  "version": "2.0.1",
-  "notes": "OmniCart POS 2.0.1: Quick stability improvements for auto-updater.",
-  "pub_date": "2026-07-03T17:30:00Z",
+  "version": "2.0.2",
+  "notes": "OmniCart POS 2.0.2: Testing auto-updater pipeline stability.",
+  "pub_date": "2026-07-03T18:13:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQjJYZklzNWR5eFFPQmlkaWhOeTVlczRyMjZNYUR6VlN0V05uNENvUUFrOHFIQ1RQY1ZsQ3RjQy9kc3ZTNmVydFdLZEU2VmV3RWYrVUtZT2ZzQ29iblVWUzdsWUtGRkFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMDgxNjc1CWZpbGU6T21uaUNhcnQgUE9TXzIuMC4xX3g2NC1zZXR1cC5leGUKOSs5TnVyajhSVVZrTzBNaXhnakR6U05oYjNvK294RTVKVFRBVE92cFNzMnhyU3hqeHgrMVZGOER5MjMrbXRtdEV0Vy9vYm1ZVHQ3ajMxUUJvdlZMRHc9PQo=",
-      "url": "https://github.com/ShanAhmd/omnicart-updater/releases/download/v2.0.1/OmniCart.POS_2.0.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQjJYZklzNWR5eGFzSFN5RkRMTjVzSWJSWVpTRzVyclBmSEdyUzhrMjBmUTllRTlTVlh6TkFnbG9VdU13Yk1IRmRwTERxZ1hobHBTb1AxTTFBVlk5S2ZISlBXK09YcXdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMDgzMTYyCWZpbGU6T21uaUNhcnQgUE9TXzIuMC4yX3g2NC1zZXR1cC5leGUKUUNrc3FWa2RETzR3OFFzWDJ3cSsvcklkdnFwemJzWFBUSkdqR2IvK2NSRGpVd1YxY0llT25zc1RLZWdTcjlDTzhUTUN4MmVNSzBFRGVWNWZ0MkMzQWc9PQo=",
+      "url": "https://github.com/ShanAhmd/omnicart-updater/releases/download/v2.0.2/OmniCart.POS_2.0.2_x64-setup.exe"
     }
   }
 }

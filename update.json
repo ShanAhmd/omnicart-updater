@@ -1,11 +1,12 @@
 {
-  "version": "1.0.9",
-  "notes": "OmniCart POS Cloud Backup & Support Tickets Update!",
-  "pub_date": "2026-07-01T12:00:00Z",
+  "version": "2.0.0",
+  "notes": "OmniCart POS 2.0.0: Enterprise Features, Integrated Payments, Local LAN sync, and Automated Cloud Database Restoration!",
+  "pub_date": "2026-07-03T15:15:00Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "dummy_signature_for_testing",
-      "url": "https://github.com/ShanAhmd/omnicart-updater/releases/download/v1.0.9/OmniCart_1.0.9_x64-setup.nsis.zip"
+      "url": "https://github.com/ShanAhmd/omnicart-updater/releases/download/v2.0.0/OmniCart_2.0.0_x64-setup.nsis.zip"
     }
   }
 }
+
